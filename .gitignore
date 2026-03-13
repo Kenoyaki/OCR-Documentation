@@ -1,0 +1,12 @@
+.venv/ 
+__pycache__/ 
+*.pkl 
+*.onnx 
+*.pt 
+*.zip 
+faces_aug/ 
+"Face and plate recog/dataset_combined/" 
+"Face and plate recog/datasets/" 
+"Face and plate recog/runs/" 
+"Face and plate recog/extracted_faces/" 
+"Face and plate recog/faces_aug/" 

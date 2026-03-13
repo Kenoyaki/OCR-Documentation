@@ -1,0 +1,11 @@
+# faces_plates.yaml
+
+# Paths to your dataset
+train: dataset_combined/images/train
+val: dataset_combined/images/val
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ["face", "plate"]
